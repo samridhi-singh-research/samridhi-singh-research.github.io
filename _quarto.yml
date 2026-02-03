@@ -1,21 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Samridhi Singh"
+  site-url: "https://samridhi-singh-research.github.io/blog"
+  title: "My First Blog"
+  description: "I use this space to reflect on my academic experiences, research interests, and professional development."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+        
 
 
