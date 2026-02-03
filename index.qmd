@@ -29,7 +29,3 @@ Check out my first blog post by clicking on the link below!
 
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 352a2b0 (Add blog to main site)
