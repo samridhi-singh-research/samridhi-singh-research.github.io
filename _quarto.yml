@@ -5,5 +5,9 @@ project:
 website:
   title: "Samridhi Singh"
   site-url: "https://samridhi-singh-research.github.io"
-
-
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Blog"
+        file: index.qmd
