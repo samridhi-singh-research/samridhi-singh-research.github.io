@@ -2,6 +2,17 @@
 title: "Samridhi Singh"
 ---
 
-This is a Quarto website.
+## About
+Undergrduate Student at the University of Waterloo
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Research Interests
+
+For my thesis, I am studying how individuals remember and use language, exploring whether embedding meaningful information, like personal experiences or familiar characteristics, improves memory retention. This led me to the research question for my Honours Thesis: How do visual proximity and semantic context influence adults’ ability to identify newly learned objects?”
+
+## Contact
+
+* Email: samridhi.singh@uwaterloo.ca
+* LinkedIn: [linkedin.com/in/ss2710](https://www.linkedin.com/in/ss2710)
+
+
+
