@@ -4,19 +4,6 @@ project:
 
 website:
   title: "Samridhi Singh"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
+  site-url: "https://samridhi-singh-research.github.io"
 
 
