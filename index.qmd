@@ -1,17 +1,32 @@
 ---
 title: "Samridhi Singh"
+format: html
 ---
 
 
 ## About
 
-Undergraduate student at the University of Waterloo
+Undergraduate student at the University of Waterloo. 
 
 ## Research Interests
 
-I am interested in studying memory and researching whether meaningful information (i.e personal anecdotes) enhances the ability to remember. This led me to the research question for my Honours Thesis: How do visual proximity and semantic context influence adults’ ability to identify newly learned objects?"
+For my thesis, I am studying how individuals remember and use language, exploring whether embedding meaningful information, like personal experiences or familiar characteristics, improves memory retention. This led me to the research question for my Honours Thesis: How do visual proximity and semantic context influence adults’ ability to identify newly learned objects?"
+
 
 ## Contact
 
-Email: samridhi.singh@uwaterloo.ca
-LinkedIn: https://www.linkedin.com/in/ss2710/
+- **Email:** [samridhi.singh@uwaterloo.ca](mailto:samridhi.singh@uwaterloo.ca) 
+- **LinkedIn:** [linkedin.com/in/ss2710](https://www.linkedin.com/in/ss2710/)
+
+
+## Blog
+
+I use this space to reflect on my academic experiences, research interests, and professional development.
+
+Check out my first blog post by clicking on the link below!
+
+[Why I’m Starting This Blog](posts/first-post/index.qmd)
+
+
+
+
