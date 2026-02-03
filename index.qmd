@@ -26,6 +26,3 @@ I use this space to reflect on my academic experiences, research interests, and 
 Check out my first blog post by clicking on the link below!
 
 [Why I’m Starting This Blog](posts/first-post/)
-
-
-
