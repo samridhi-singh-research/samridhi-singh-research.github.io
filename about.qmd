@@ -1,11 +1,5 @@
 ---
-title: "About this blog"
+title: "About"
 ---
 
-This blog is a space for reflecting on my academic journey as an undergraduate psychology student at the University of Waterloo.
-
-I plan to write about topics related to memory, cognition, and research methods, as well as my experiences conducting an Honours Thesis. Compared to my academic website, this space allows for more informal and exploratory thinking.
-
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ss2710/).
-
+About this site

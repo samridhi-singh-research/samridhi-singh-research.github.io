@@ -1,1 +1,0 @@
-# samridhi-singh-research.github.io
